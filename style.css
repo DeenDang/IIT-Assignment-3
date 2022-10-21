@@ -152,6 +152,10 @@ nav img{
     transition: 1s;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 nav .fa{
     display: none;
 }
